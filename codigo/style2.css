@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+    
+    text-align: center;
+  background-color: #205f26;;
+  
+    
+}
+
+
+.card{
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 100%;
+    float:right;
+    
+  
+    
+}
+
+body{
+  padding:10px;
+  
+  
+}
+
+
+.allcards{
+  margin-right:45px;
+}
+
+
+#tela{
+    margin: 10px;
+}
+
+
+.card:hover{
+    background-color: rgba(11, 146, 146, 0.541);
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}

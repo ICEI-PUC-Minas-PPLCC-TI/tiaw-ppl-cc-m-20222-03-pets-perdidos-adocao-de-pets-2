@@ -1,0 +1,46 @@
+body{
+    align-items: center;
+    background-color: #68a7ad; 
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.formulario{
+    align-items: center;
+    background-color: #99c4c8;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+    padding: 2rem;
+}
+
+.campos{
+    display:flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.input{
+    border: 0 none;
+    border-radius: 20px;
+    height: 1.5rem;
+}
+
+.textarea{
+    padding: .8rem;
+    overflow: hidden;
+}
+
+.submit{
+    background-color: rgb(80, 80, 251);
+    border: 0 none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 2rem;
+    height: 2rem;
+    width: 7rem;
+}
