@@ -175,13 +175,9 @@ A metodologia contempla as definições de ferramentas utilizado pela equipe tan
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No Sprint 2 e 3, o grupo foi orientado a se dividir e cada um foi responsavel por desenvolver 2 funcionalidades para o projeto. As entregas ocorreram em outubro e novembro. Nesta etapa foi possível concluir as funcionalidades que seriam ou não usadas devido ao seu funcionamento.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Na parte final do projeto, o Sprint 4, a tarefa foi combinar as ferramentas individuais e integra-las, padronizando os elementos gráficos e mantendo o código organizado.
 
 
 ## Ferramentas
@@ -190,33 +186,12 @@ A metodologia contempla as definições de ferramentas utilizado pela equipe tan
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  [https://miro.com/XXXXXXX](https://miro.com/app/board/uXjVPTXjZiE=/) | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Projeto de Interface e Wireframes | Figma |  https://www.figma.com/ | 
+|Documentos do projeto | Google Drive | https://docs.google.com/document/d/1L_SYtjcM8MxBv8WxDE72n7h0rEdjtT9fk8nSjZ2H4/edit?usp=sharing | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
 
 ## Controle de Versão
 
@@ -224,69 +199,50 @@ O Git foi a ferramenta de controle de versão escolhida. Por ele nós vamos subi
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso projeto de solução consiste em um software, mais precisamente um website, no qual usa requisitos funcionais e não funcionais (Dinâmica Javascript, Apresentação de informação e Cadastros de informações). Assim, com essa ferramenta visamos resolver o problema anteriormente apresentado.
+Foram criadas diversas telas, sendo algumas delas:
+![image](https://user-images.githubusercontent.com/113958847/205846886-90b3758f-3876-4ea0-aa2e-54f9fa31b1a2.png)
+![image](https://user-images.githubusercontent.com/113958847/205846934-1ee31353-2eba-46f4-a019-baab68a66582.png)
+![image](https://user-images.githubusercontent.com/113958847/205846982-79e6207e-a92e-4957-b888-19d57c8731dc.png)
+![image](https://user-images.githubusercontent.com/113958847/205847019-bce8c4cf-6fb3-46e0-b7d9-d99ac6d3c757.png)
+![image](https://user-images.githubusercontent.com/113958847/205847052-566044df-84cd-4293-88ab-beb019c11a7a.png)
+![image](https://user-images.githubusercontent.com/113958847/205847092-870642e7-4736-445d-98f6-803ab148af31.png)
+
+
+
+
+
+
 
 ## Tecnologias Utilizadas
 
 Para implementar a solução do projeto, foram utilizadas as linguagem HTML(HyperText Markup Language) que é o componente básico da web, e CSS, PHP e JavaScrpit.
+Para adquirir o conhecimento necessário para a Dinâmica Javascript, Apresentação de informação e Cadastros de informações o grupo assistiu as aulas da disciplina DIW (Desenvolvimento de interface web), e os aulões da disciplina TIAW (Trabalho Interdisciplinar Aplicações Web).
 
-Nossas tecnologias usadas foram: HTML, CSS, JavaScrpi, PHP, Json, Visual studio code, discord, replit, Miro e GitHub.
-HTML, CSS, JavaScrpit, Json e PHP foram usados para a montagem do site. Visual studio code e replit foram usados para a compilação dos códigos. Miro, GitHub e Discord foram usados para o desenvolvimento criativo e para upload de códigos.
+Nossas tecnologias usadas foram: HTML, CSS, JavaScript, PHP, Json, Visual studio code, Discord, replit, Miro,Figma e GitHub.
+HTML, CSS, JavaScrpit, Json e PHP foram usados para a montagem do site. Visual studio code e replit foram usados para a compilação dos códigos. Miro,Figma, GitHub e Discord foram usados para o desenvolvimento criativo e para upload de códigos.
 
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
 > ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Os cenários de testes utilizados foram: Cadastro do pet, cadastro da instituicao, login, cadastro e visualizaçao de doação, vizualização de conteúdo, funcionalidade dos itens no cabeçalho do site.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1-Vizualização de conteúdo: O usuário deve ser capaz de vizualizar todos os conteúdos disponíveis a ele sem restrições e sem maiores dificuldades para encontrrar o conteúdo desejado.
+2- Teste de cadastros: O usuário deve conseguir realizar os cadastros no site, e o site deve salvar suas informações.
+3- Funcionalidade dos itens do cabeçalho do site: Todas as opções de cabeçalho devem ser utilizaveis e oferecerem a informação necessária ao usuário.
+4- Teste de doação: O usuário deve conseguir realizar os cadastro da doação no site, e o site deve salvar suas informações.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+Além dos testes já feitos nas entregas da Sprint 2 e 3 de cada membro do grupo, também testamos o que foi citado acima. Os testes obtiveram sucesso, porém alguns erros foram detectados durante o processo, porem foram corrigidos. Assim, essa etapa foi fundamental para melhorar o website desenvolvido. Ademais, os testes de cada sprint também foram cruciais para fazer uma boa entrega.
 
 # Referências
 
